@@ -26,6 +26,9 @@ This repo will track my *learning journey, projects, and experiments* as I grow 
 🔹 Grocery Store Management System in Python (Console-Based)
 
 
+🔹  Deepfake Detection System Using Deep Learning and Facial Forensics.
+
+
 ---
 
 ## 🎯 Goals for 2025
