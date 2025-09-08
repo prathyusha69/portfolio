@@ -22,19 +22,9 @@ This repo will track my *learning journey, projects, and experiments* as I grow 
 
 ---
 
-## 📂 My Starter Projects
-Here are some small projects I’ll be working on as a beginner:
+## 📂 Projects
+🔹 Grocery Store Management System in Python (Console-Based)
 
-1. 📊 *Data Analysis Project*  
-   - Explore a dataset (like Titanic or Iris)  
-   - Practice cleaning, visualizing, and summarizing data  
-
-2. 🤖 *Basic ML Model*  
-   - Train a model to predict housing prices or classify Iris flowers  
-   - Learn how to evaluate accuracy  
-
-3. 📝 NLP Mini Project  
-   - Build a simple text classifier (spam vs. not spam)  
 
 ---
 
